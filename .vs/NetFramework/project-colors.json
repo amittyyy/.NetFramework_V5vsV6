@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dfe6f1fb-cff8-4f21-b09f-e4c47df24c7a": {
+      "ProjectGuid": "dfe6f1fb-cff8-4f21-b09f-e4c47df24c7a",
+      "DisplayName": "DotNet5",
+      "ColorIndex": 0
+    },
+    "6145d456-e368-4ec8-9e64-947a33a670bf": {
+      "ProjectGuid": "6145d456-e368-4ec8-9e64-947a33a670bf",
+      "DisplayName": "DotNet6",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
